@@ -1,0 +1,24 @@
+{
+  "name": "t20-wc-2026-analytics",
+  "version": "1.0.0",
+  "description": "T20 World Cup 2026 Analytics & Prediction System",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "train": "python train_models.py",
+    "test": "python -m pytest tests/",
+    "clean": "find . -type d -name '__pycache__' -exec rm -r {} + && find . -type f -name '*.pyc' -delete"
+  },
+  "keywords": [
+    "cricket",
+    "t20",
+    "world-cup",
+    "machine-learning",
+    "analytics",
+    "prediction",
+    "streamlit",
+    "chatbot"
+  ],
+  "author": "T20 Analytics Team",
+  "license": "MIT"
+}
