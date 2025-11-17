@@ -240,17 +240,4 @@ To update with new data:
 
 Built with ❤️ for T20 World Cup 2026 analytics
 
-## 📄 License
 
-This project is for educational and analytical purposes.
-
-## 🆘 Support
-
-For issues or questions:
-1. Check the example queries in the chatbot
-2. Review the documentation
-3. Retrain models if predictions seem off
-
----
-
-**Enjoy analyzing and predicting T20 World Cup 2026!** 🏏🏆
