@@ -240,5 +240,3 @@ To update with new data:
 
 Built with ❤️ for T20 World Cup 2026 analytics
 
-link
-http://localhost:8501
