@@ -1,0 +1,14 @@
+TEAM: Oman
+==================================================
+Aqib Ilyas  |  Aqib Ilyas  |  100.0
+Zeeshan Maqsood  |  Zeeshan Maqsood  |  100.0
+Bilal Khan  |  Bilal Khan  |  100.0
+Kaleemullah  |  Kaleemullah  |  100.0
+Fayyaz Butt  |  Fayyaz Butt  |  100.0
+Mohammad Nadeem  |  Mohammad Nadeem  |  100.0
+Kashyap Prajapati  |  KH Prajapati  |  75.86206896551724
+Khalid Kail  |  Khalid Kail  |  100.0
+Ayaan Khan  |  Ayan Khan  |  94.73684210526316
+Naseem Khushi  |  Naseem Khushi  |  100.0
+Shakeel Ahmed  |  Shakeel Ahmed  |  100.0
+Shoaib Khan  |  Shoaib Khan  |  100.0

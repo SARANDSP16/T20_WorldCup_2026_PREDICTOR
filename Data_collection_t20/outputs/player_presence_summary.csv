@@ -1,0 +1,21 @@
+team_name,active_players_json,players_in_dataset,players_present,players_missing
+South Africa,27,124,1,26
+England,25,109,1,24
+West Indies,23,109,0,23
+Sri Lanka,23,100,0,23
+Australia,22,113,0,22
+New Zealand,21,105,1,20
+India,34,119,15,19
+Ireland,19,60,1,18
+Zimbabwe,15,83,1,14
+Papua New Guinea,12,34,0,12
+Scotland,13,63,1,12
+Netherlands,12,61,2,10
+Uganda,11,43,1,10
+Namibia,11,35,2,9
+United States of America,14,50,5,9
+Canada,14,66,5,9
+Nepal,12,52,5,7
+Bangladesh,25,88,22,3
+Oman,12,51,10,2
+Pakistan,34,123,33,1

@@ -1,0 +1,30 @@
+TEAM: Bangladesh
+==================================================
+Afif Hossain  |  Afif Hossain  |  100.0
+Hasan Mahmud  |  Hasan Mahmud  |  100.0
+Jaker Ali  |  Jaker Ali  |  100.0
+Liton Das  |  Liton Das  |  100.0
+Mahedi Hasan  |  Mahedi Hasan  |  100.0
+Mehidy Hasan  |  Hassan Mehmood  |  76.92307692307692
+Mohammad Naim  |  Mohammad Naim  |  100.0
+Mohammad Saifuddin  |  Mohammad Saifuddin  |  100.0
+Mustafizur Rahman  |  Mustafizur Rahman  |  100.0
+Nahid Rana  |  N Rana  |  75.0
+Najmul Hossain Shanto  |  Nazmul Hossain Shanto  |  95.23809523809523
+Nasum Ahmed  |  Nasum Ahmed  |  100.0
+Nurul Hasan  |  Nurul Hasan  |  100.0
+Parvez Hossain Emon  |  Parvez Hossain Emon  |  100.0
+Rishad Hossain  |  Rishad Hossain  |  100.0
+Saif Hassan  |  Saif Hassan  |  100.0
+Shamim Hossain  |  Shamim Hossain  |  100.0
+Shoriful Islam  |  Shoriful Islam  |  100.0
+Soumya Sarkar  |  Soumya Sarkar  |  100.0
+Tanvir Islam  |  Tanvir Islam  |  100.0
+Tanzid Hasan  |  Tanzid Hasan  |  100.0
+Tanzim Hasan Sakib  |  Tanzim Hasan Sakib  |  100.0
+Taskin Ahmed  |  Taskin Ahmed  |  100.0
+Towhid Hridoy  |  Towhid Hridoy  |  100.0
+
+UNMATCHED PLAYERS:
+------------------------------
+- Syed Khaled Ahmed

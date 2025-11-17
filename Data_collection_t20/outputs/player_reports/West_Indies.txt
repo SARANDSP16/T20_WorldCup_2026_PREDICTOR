@@ -1,0 +1,28 @@
+TEAM: West Indies
+==================================================
+Jewel Andrew  |  J Andrew  |  80.0
+Alick Athanaze  |  A Athanaze  |  83.33333333333334
+Navin Bidaisee  |  N Bidaisee  |  83.33333333333334
+Johnson Charles  |  J Charles  |  75.0
+Andre Fletcher  |  ADS Fletcher  |  76.92307692307692
+Jason Holder  |  JO Holder  |  76.19047619047619
+Shai Hope  |  SD Hope  |  75.0
+Akeal Hosein  |  AJ Hosein  |  76.19047619047619
+Shamar Joseph  |  S Joseph  |  76.19047619047619
+Kyle Mayers  |  KR Mayers  |  80.0
+Obed McCoy  |  OC McCoy  |  77.77777777777779
+Rovman Powell  |  R Powell  |  76.19047619047619
+Andre Russell  |  AD Russell  |  78.26086956521739
+Sherfane Rutherford  |  SE Rutherford  |  75.0
+Romario Shepherd  |  R Shepherd  |  76.92307692307692
+
+UNMATCHED PLAYERS:
+------------------------------
+- Fabian Allen
+- Ackeem Auguste
+- Roston Chase
+- Matthew Forde
+- Alzarri Joseph
+- Brandon King
+- Gudakesh Motie
+- Nicholas Pooran

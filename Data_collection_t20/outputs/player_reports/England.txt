@@ -1,0 +1,30 @@
+TEAM: England
+==================================================
+Jofra Archer  |  JC Archer  |  76.19047619047619
+Gus Atkinson  |  JJ Atkinson  |  78.26086956521739
+Tom Banton  |  T Banton  |  88.88888888888889
+Jacob Bethell  |  JG Bethell  |  78.26086956521739
+Jos Buttler  |  JC Buttler  |  85.71428571428572
+Jordan Cox  |  CJ Jordan  |  84.21052631578947
+Sam Curran  |  SM Curran  |  84.21052631578947
+Liam Dawson  |  LA Dawson  |  80.0
+Ben Duckett  |  BM Duckett  |  85.71428571428572
+Will Jacks  |  WG Jacks  |  77.77777777777779
+Liam Livingstone  |  LS Livingstone  |  86.66666666666667
+Saqib Mahmood  |  S Mahmood  |  81.81818181818181
+Dan Mousley  |  DR Mousley  |  85.71428571428572
+Jamie Overton  |  J Overton  |  81.81818181818181
+Adil Rashid  |  AU Rashid  |  80.0
+Rehan Ahmed  |  Rehan Ahmed  |  100.0
+Phil Salt  |  PD Salt  |  75.0
+John Turner  |  AJ Turner  |  80.0
+Luke Wood  |  Luka Woods  |  84.21052631578947
+Mark Wood  |  MA Wood  |  75.0
+
+UNMATCHED PLAYERS:
+------------------------------
+- Sonny Baker
+- Harry Brook
+- Brydon Carse
+- Matthew Potts
+- Jamie Smith

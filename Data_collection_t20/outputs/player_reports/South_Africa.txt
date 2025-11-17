@@ -1,0 +1,32 @@
+TEAM: South Africa
+==================================================
+Dewald Brevis  |  D Brevis  |  76.19047619047619
+Nandre Burger  |  N Burger  |  76.19047619047619
+Gerald Coetzee  |  G Coetzee  |  78.26086956521739
+Quinton de Kock  |  Q de Kock  |  75.0
+Tony de Zorzi  |  T de Zorzi  |  86.95652173913044
+Donovan Ferreira  |  D Ferreira  |  76.92307692307692
+Bjorn Fortuin  |  BC Fortuin  |  78.26086956521739
+Reeza Hendricks  |  RR Hendricks  |  81.4814814814815
+Marco Jansen  |  M Jansen  |  80.0
+Keshav Maharaj  |  KA Maharaj  |  75.0
+Kwena Maphaka  |  KT Maphaka  |  78.26086956521739
+Aiden Markram  |  AK Markram  |  78.26086956521739
+David Miller  |  DA Miller  |  76.19047619047619
+Senuran Muthusamy  |  S Muthusamy  |  78.57142857142857
+Lungi Ngidi  |  L Ngidi  |  77.77777777777779
+Kagiso Rabada  |  K Rabada  |  76.19047619047619
+Rassie van der Dussen  |  HE van der Dussen  |  78.94736842105263
+Lizaad Williams  |  LB Williams  |  76.92307692307692
+
+UNMATCHED PLAYERS:
+------------------------------
+- Ottneil Baartman
+- Corbin Bosch
+- Matthew Breetzke
+- Dayyaan Galiem
+- Rubin Hermann
+- Heinrich Klaasen
+- George Linde
+- Ryan Rickelton
+- Tristan Stubbs

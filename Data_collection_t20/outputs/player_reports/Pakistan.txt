@@ -1,0 +1,36 @@
+TEAM: Pakistan
+==================================================
+Abbas Afridi  |  Abbas Afridi  |  100.0
+Abdul Samad  |  Abdul Samad  |  100.0
+Abrar Ahmed  |  Abrar Ahmed  |  100.0
+Agha Salman  |  Agha Salman  |  100.0
+Ahmed Daniyal  |  Ahmed Daniyal  |  100.0
+Arafat Minhas  |  Arafat Minhas  |  100.0
+Babar Azam  |  Babar Azam  |  100.0
+Faheem Ashraf  |  Faheem Ashraf  |  100.0
+Fakhar Zaman  |  Fakhar Zaman  |  100.0
+Haris Rauf  |  Haris Rauf  |  100.0
+Hasan Ali  |  Ali Hasan  |  100.0
+Hasan Nawaz  |  Hassan Nawaz  |  95.65217391304348
+Haseebullah Khan  |  Haseebullah Khan  |  100.0
+Hussain Talat  |  Hussain Talat  |  100.0
+Irfan Khan  |  Irfan Khan  |  100.0
+Jahandad Khan  |  Jahandad Khan  |  100.0
+Khushdil Shah  |  Khushdil Shah  |  100.0
+Mohammad Ali  |  Mohammad Ali  |  100.0
+Mohammad Haris  |  Mohammad Haris  |  100.0
+Mohammad Hasnain  |  Mohammad Hasnain  |  100.0
+Mohammad Nawaz  |  Mohammad Nawaz  |  100.0
+Mohammad Rizwan  |  Mohammad Rizwan  |  100.0
+Naseem Shah  |  Naseem Shah  |  100.0
+Omair Yousuf  |  Omair Yousuf  |  100.0
+Qasim Akram  |  Qasim Akram  |  100.0
+Sahibzada Farhan  |  Sahibzada Farhan  |  100.0
+Saim Ayub  |  Saim Ayub  |  100.0
+Salman Mirza  |  Salman Mirza  |  100.0
+Shadab Khan  |  Shadab Khan  |  100.0
+Shaheen Shah Afridi  |  Shaheen Shah Afridi  |  100.0
+Sufiyan Muqeem  |  Sufiyan Muqeem  |  100.0
+Tayyab Tahir  |  Tayyab Tahir  |  100.0
+Usman Khan  |  Usman Khan  |  100.0
+Usman Tariq  |  Umair Tariq  |  81.81818181818181

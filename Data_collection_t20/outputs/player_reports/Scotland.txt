@@ -1,0 +1,18 @@
+TEAM: Scotland
+==================================================
+Richie Berrington  |  RD Berrington  |  80.0
+Chris Greaves  |  CN Greaves  |  78.26086956521739
+Calum MacLeod  |  CS MacLeod  |  78.26086956521739
+Hamza Tahir  |  Hamza Tahir  |  100.0
+Jack Jarvis  |  J Jarvis  |  84.21052631578947
+
+UNMATCHED PLAYERS:
+------------------------------
+- Matthew Cross
+- Mark Watt
+- Safyaan Sharif
+- Michael Leask
+- George Munsey
+- Brad Wheal
+- Gavin Main
+- Chris Sole

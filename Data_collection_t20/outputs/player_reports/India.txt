@@ -1,0 +1,39 @@
+TEAM: India
+==================================================
+Harshit Rana  |  Harshit Rana  |  100.0
+Ramandeep Singh  |  Ramandeep Singh  |  100.0
+Nitish Kumar Reddy  |  Nithish Kumar Reddy  |  97.2972972972973
+Riyan Parag  |  R Parag  |  77.77777777777779
+Dhruv Jurel  |  Dhruv Jurel  |  100.0
+Abhishek Sharma  |  Abhishek Sharma  |  100.0
+Jitesh Sharma  |  Manish Sharma  |  76.92307692307692
+Tilak Varma  |  Tilak Varma  |  100.0
+Mukesh Kumar  |  Mukesh Kumar  |  100.0
+Shubman Gill  |  Shubman Gill  |  100.0
+Arshdeep Singh  |  Arshdeep Singh  |  100.0
+Avesh Khan  |  Avesh Khan  |  100.0
+Ravi Bishnoi  |  Ravi Bishnoi  |  100.0
+Venkatesh Iyer  |  A Venkatesh  |  80.0
+Ishan Kishan  |  Ishan Kishan  |  100.0
+Washington Sundar  |  Washington Sundar  |  100.0
+Mohammed Siraj  |  Mohammed Siraj  |  100.0
+Kuldeep Yadav  |  Kuldeep Yadav  |  100.0
+KL Rahul  |  KL Rahul  |  100.0
+Axar Patel  |  Aarnav Patel  |  81.81818181818181
+
+UNMATCHED PLAYERS:
+------------------------------
+- Sai Kishore
+- Rinku Singh
+- Prasidh Krishna
+- Yashasvi Jaiswal
+- Ruturaj Gaikwad
+- Varun Chakravarthy
+- Suryakumar Yadav
+- Shivam Dube
+- Shreyas Iyer
+- Rishabh Pant
+- Yuzvendra Chahal
+- Hardik Pandya
+- Jasprit Bumrah
+- Sanju Samson

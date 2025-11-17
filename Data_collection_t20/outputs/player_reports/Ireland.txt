@@ -1,0 +1,24 @@
+TEAM: Ireland
+==================================================
+Ross Adair  |  GR Adair  |  77.77777777777779
+Mark Adair  |  MR Adair  |  77.77777777777779
+GH Dockrell  |  GH Dockrell  |  100.0
+Fionn Hand  |  F Hand  |  75.0
+Matthew Humphreys  |  MJ Humphreys  |  75.86206896551724
+Josh Little  |  J Little  |  84.21052631578947
+Barry McCarthy  |  BJ McCarthy  |  80.0
+Liam McCarthy  |  L McCarthy  |  86.95652173913044
+Neil Rock  |  NA Rock  |  75.0
+Paul Stirling  |  PR Stirling  |  83.33333333333334
+Harry Tector  |  HT Tector  |  76.19047619047619
+Lorcan Tucker  |  L Tucker  |  76.19047619047619
+Ben White  |  B White  |  87.5
+
+UNMATCHED PLAYERS:
+------------------------------
+- Benjamin Calitz
+- Curtis Campher
+- Gareth Delany
+- Graham Hume
+- Tim Tector
+- Craig Young

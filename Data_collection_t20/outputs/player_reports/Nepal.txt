@@ -1,0 +1,17 @@
+TEAM: Nepal
+==================================================
+Rohit Paudel  |  RK Paudel  |  76.19047619047619
+Kushal Bhurtel  |  K Bhurtel  |  78.26086956521739
+Aasif Sheikh  |  Aasif Sheikh  |  100.0
+Sompal Kami  |  Sompal Kami  |  100.0
+Sandeep Lamichhane  |  S Lamichhane  |  80.0
+Karan KC  |  Karan KC  |  100.0
+Kushal Malla  |  Kushal Malla  |  100.0
+Gulshan Jha  |  Gulsan Jha  |  95.23809523809523
+Lalit Rajbanshi  |  LN Rajbanshi  |  81.4814814814815
+Pratis GC  |  Pratis GC  |  100.0
+
+UNMATCHED PLAYERS:
+------------------------------
+- Dipendra Singh Airee
+- Sundeep Jora

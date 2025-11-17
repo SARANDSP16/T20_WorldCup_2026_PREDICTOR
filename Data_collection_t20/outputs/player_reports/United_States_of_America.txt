@@ -1,0 +1,19 @@
+TEAM: United States of America
+==================================================
+Aaron Jones  |  Aaron Jones  |  100.0
+Saurabh Netravalkar  |  SN Netravalkar  |  78.78787878787878
+Corey Anderson  |  CJ Anderson  |  80.0
+Ali Khan  |  Ali Khan  |  100.0
+Nitish Kumar  |  Nithish Kumar Reddy  |  77.41935483870968
+Harmeet Singh  |  Harmeet Singh  |  100.0
+Gajanand Singh  |  Gagandeep Singh  |  75.86206896551724
+Milind Kumar  |  Milind Kumar  |  100.0
+Shayan Jahangir  |  Shayan Jahangir  |  100.0
+
+UNMATCHED PLAYERS:
+------------------------------
+- Monank Patel
+- Steven Taylor
+- Andries Gous
+- Nosthush Kenjige
+- Jessy Singh

@@ -1,0 +1,27 @@
+TEAM: Australia
+==================================================
+Sean Abbott  |  SA Abbott  |  80.0
+Xavier Bartlett  |  XC Bartlett  |  76.92307692307692
+Alex Carey  |  Alex Carthew  |  81.81818181818181
+Tim David  |  TH David  |  82.35294117647058
+Ben Dwarshuis  |  BJ Dwarshuis  |  88.0
+Jake Fraser-McGurk  |  J Fraser-McGurk  |  90.9090909090909
+Aaron Hardie  |  AM Hardie  |  76.19047619047619
+Josh Hazlewood  |  JR Hazlewood  |  84.61538461538461
+Josh Inglis  |  JP Inglis  |  80.0
+Glenn Maxwell  |  GJ Maxwell  |  78.26086956521739
+Mitchell Owen  |  RP Mitchell  |  75.0
+Josh Philippe  |  JR Philippe  |  83.33333333333334
+Marcus Stoinis  |  MP Stoinis  |  75.0
+Adam Zampa  |  A Zampa  |  82.35294117647058
+
+UNMATCHED PLAYERS:
+------------------------------
+- Cooper Connolly
+- Nathan Ellis
+- Cameron Green
+- Travis Head
+- Spencer Johnson
+- Matthew Kuhnemann
+- Mitchell Marsh
+- Matthew Short

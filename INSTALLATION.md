@@ -1,4 +1,4 @@
-# 📦 Installation Guide
+Installation Guide
 
 ## System Requirements
 

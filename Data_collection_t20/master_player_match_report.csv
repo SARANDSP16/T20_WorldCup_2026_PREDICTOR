@@ -1,0 +1,402 @@
+team,player_full_name,player_short_name
+Australia,Sean Abbott,SA Abbott
+Australia,Xavier Bartlett,XC Bartlett
+Australia,Alex Carey,Alex Carthew
+Australia,Tim David,TH David
+Australia,Ben Dwarshuis,BJ Dwarshuis
+Australia,Jake Fraser-McGurk,J Fraser-McGurk
+Australia,Aaron Hardie,AM Hardie
+Australia,Josh Hazlewood,JR Hazlewood
+Australia,Josh Inglis,JP Inglis
+Australia,Glenn Maxwell,GJ Maxwell
+Australia,Mitchell Owen,RP Mitchell
+Australia,Josh Philippe,JR Philippe
+Australia,Marcus Stoinis,MP Stoinis
+Australia,Adam Zampa,A Zampa
+Australia,Cooper Connolly,C Connolly
+Australia,Nathan Ellis,NT Ellis
+Australia,Cameron Green,C Green
+Australia,Travis Head,TM Head
+Australia,Spencer Johnson,SH Johnson
+Australia,Matthew Kuhnemann,MP Kuhnemann
+Australia,Mitchell Marsh,MR Marsh
+Australia,Matthew Short,MW Short
+Bangladesh,Syed Khaled Ahmed,Khaled Ahmed
+Bangladesh,Afif Hossain,Afif Hossain
+Bangladesh,Hasan Mahmud,Hasan Mahmud
+Bangladesh,Jaker Ali,Jaker Ali
+Bangladesh,Liton Das,Liton Das
+Bangladesh,Mahedi Hasan,Mahedi Hasan
+Bangladesh,Mehidy Hasan,Hassan Mehmood
+Bangladesh,Mohammad Naim,Mohammad Naim
+Bangladesh,Mohammad Saifuddin,Mohammad Saifuddin
+Bangladesh,Mustafizur Rahman,Mustafizur Rahman
+Bangladesh,Nahid Rana,N Rana
+Bangladesh,Najmul Hossain Shanto,Nazmul Hossain Shanto
+Bangladesh,Nasum Ahmed,Nasum Ahmed
+Bangladesh,Nurul Hasan,Nurul Hasan
+Bangladesh,Parvez Hossain Emon,Parvez Hossain Emon
+Bangladesh,Rishad Hossain,Rishad Hossain
+Bangladesh,Saif Hassan,Saif Hassan
+Bangladesh,Shamim Hossain,Shamim Hossain
+Bangladesh,Shoriful Islam,Shoriful Islam
+Bangladesh,Soumya Sarkar,Soumya Sarkar
+Bangladesh,Tanvir Islam,Tanvir Islam
+Bangladesh,Tanzid Hasan,Tanzid Hasan
+Bangladesh,Tanzim Hasan Sakib,Tanzim Hasan Sakib
+Bangladesh,Taskin Ahmed,Taskin Ahmed
+Bangladesh,Towhid Hridoy,Towhid Hridoy
+Canada,Rayyan Pathan,R Pathan
+Canada,Saad Bin Zafar,Saad Bin Zafar
+Canada,Aaron Johnson,Aaron Jones
+Canada,Pargat Singh,Pargat Singh
+Canada,Harsh Thaker,H Thaker
+Canada,Navneet Dhaliwal,NS Dhaliwal
+Canada,Nicholas Kirton,NR Kirton
+Canada,Dilpreet Bajwa,DS Bajwa
+Canada,Nikhil Dutta,N Dutta
+Canada,Shreyas Movva,S Movva
+Canada,Kaleem Sana,Kaleem Sana
+Canada,Ravinderpal Singh,Ravinderpal Singh
+Canada,Dillon Heyliger,D Heyliger
+Canada,Rizwan Cheema,Rizwan Cheema
+England,Jofra Archer,JC Archer
+England,Gus Atkinson,JJ Atkinson
+England,Tom Banton,T Banton
+England,Jacob Bethell,JG Bethell
+England,Jos Buttler,JC Buttler
+England,Jordan Cox,CJ Jordan
+England,Sam Curran,SM Curran
+England,Liam Dawson,LA Dawson
+England,Ben Duckett,BM Duckett
+England,Will Jacks,WG Jacks
+England,Liam Livingstone,LS Livingstone
+England,Saqib Mahmood,S Mahmood
+England,Dan Mousley,DR Mousley
+England,Jamie Overton,J Overton
+England,Adil Rashid,AU Rashid
+England,Rehan Ahmed,Rehan Ahmed
+England,Phil Salt,PD Salt
+England,John Turner,AJ Turner
+England,Luke Wood,Luka Woods
+England,Mark Wood,MA Wood
+England,Sonny Baker,S Baker
+England,Harry Brook,HC Brook
+England,Brydon Carse,BA Carse
+England,Matthew Potts,MJ Potts
+England,Jamie Smith,JL Smith
+India,Harshit Rana,Harshit Rana
+India,Ramandeep Singh,Ramandeep Singh
+India,Nitish Kumar Reddy,Nithish Kumar Reddy
+India,Riyan Parag,R Parag
+India,Dhruv Jurel,Dhruv Jurel
+India,Abhishek Sharma,Abhishek Sharma
+India,Tilak Varma,Tilak Varma
+India,Mukesh Kumar,Mukesh Kumar
+India,Shubman Gill,Shubman Gill
+India,Arshdeep Singh,Arshdeep Singh
+India,Avesh Khan,Avesh Khan
+India,Ravi Bishnoi,Ravi Bishnoi
+India,Ishan Kishan,Ishan Kishan
+India,Washington Sundar,Washington Sundar
+India,Mohammed Siraj,Mohammed Siraj
+India,Kuldeep Yadav,Kuldeep Yadav
+India,KL Rahul,KL Rahul
+India,Axar Patel,AR Patel
+India,Sai Kishore,R Sai Kishore
+India,Rinku Singh,RK Singh
+India,Prasidh Krishna,M Prasidh Krishna
+India,Yashasvi Jaiswal,YBK Jaiswal
+India,Ruturaj Gaikwad,RD Gaikwad
+India,Varun Chakravarthy,CV Varun
+India,Suryakumar Yadav,SA Yadav
+India,Shivam Dube,S Dube
+India,Shreyas Iyer,SS Iyer
+India,Rishabh Pant,RR Pant
+India,Yuzvendra Chahal,YS Chahal
+India,Hardik Pandya,HH Pandya
+India,Jasprit Bumrah,JJ Bumrah
+India,Sanju Samson,SV Samson
+India,Jitesh Sharma,JM Sharma
+India,Venkatesh Iyer,VR Iyer
+Ireland,Ross Adair,GR Adair
+Ireland,Mark Adair,MR Adair
+Ireland,Benjamin Calitz,BF Calitz
+Ireland,Curtis Campher,C Campher
+Ireland,Gareth Delany,DC Delany
+Ireland,Graham Hume,GI Hume
+Ireland,Craig Young,CA Young
+Ireland,GH Dockrell,GH Dockrell
+Ireland,Fionn Hand,F Hand
+Ireland,Matthew Humphreys,MJ Humphreys
+Ireland,Josh Little,J Little
+Ireland,Barry McCarthy,BJ McCarthy
+Ireland,Liam McCarthy,L McCarthy
+Ireland,Neil Rock,NA Rock
+Ireland,Paul Stirling,PR Stirling
+Ireland,Harry Tector,HT Tector
+Ireland,Lorcan Tucker,L Tucker
+Ireland,Ben White,B White
+Namibia,JJ Smit,JJ Smit
+Namibia,Gerhard Erasmus,MG Erasmus
+Namibia,Bernard Scholtz,BM Scholtz
+Namibia,Jan Frylinck,JN Frylinck
+Namibia,David Wiese,D Wiese
+Namibia,Ruben Trumpelmann,R Trumpelmann
+Namibia,Michael van Lingen,M van Lingen
+Namibia,Tangeni Lungameni,T Lungameni
+Namibia,Zane Green,ZE Green
+Namibia,JP Kotze,JP Kotze
+Namibia,Ben Shikongo,B Shikongo
+Nepal,Rohit Paudel,RK Paudel
+Nepal,Kushal Bhurtel,K Bhurtel
+Nepal,Aasif Sheikh,Aasif Sheikh
+Nepal,Sompal Kami,Sompal Kami
+Nepal,Sandeep Lamichhane,S Lamichhane
+Nepal,Karan KC,Karan KC
+Nepal,Kushal Malla,Kushal Malla
+Nepal,Gulshan Jha,Gulsan Jha
+Nepal,Lalit Rajbanshi,LN Rajbanshi
+Nepal,Pratis GC,Pratis GC
+Nepal,Dipendra Singh Airee,DS Airee
+Nepal,Sundeep Jora,S Jora
+Netherlands,Teja Nidamanuru,AT Nidamanuru
+Netherlands,Michael Levitt,M Levitt
+Netherlands,Scott Edwards,SA Edwards
+Netherlands,Bas de Leede,BFW de Leede
+Netherlands,Logan van Beek,LV van Beek
+Netherlands,Vikramjit Singh,Vikramjit Singh
+Netherlands,Max O'Dowd,MP O'Dowd
+Netherlands,Paul van Meekeren,PA van Meekeren
+Netherlands,Fred Klaassen,FJ Klaassen
+Netherlands,Roelof van der Merwe,RE van der Merwe
+Netherlands,Shariz Ahmad,Shariz Ahmad
+Netherlands,Aryan Dutt,A Dutt
+New Zealand,Finn Allen,FA Allen
+New Zealand,Jacob Duffy,JA Duffy
+New Zealand,Zakary Foulkes,ZGF Foulkes
+New Zealand,William O'Rourke,W O'Rourke
+New Zealand,Mitchell Santner,MJ Santner
+New Zealand,Michael Bracewell,MG Bracewell
+New Zealand,Mark Chapman,MS Chapman
+New Zealand,Devon Conway,DP Conway
+New Zealand,Mitchell Hay,DJ Mitchell
+New Zealand,Matt Henry,MJ Henry
+New Zealand,Bevon Jacobs,BJ Jacobs
+New Zealand,Kyle Jamieson,KA Jamieson
+New Zealand,AF Milne,AF Milne
+New Zealand,Daryl Mitchell,DJ Mitchell
+New Zealand,James Neesham,JDS Neesham
+New Zealand,Glenn Phillips,GD Phillips
+New Zealand,Rachin Ravindra,R Ravindra
+New Zealand,Tim Robinson,TB Robinson
+New Zealand,Ben Sears,BV Sears
+New Zealand,Tim Seifert,TL Seifert
+New Zealand,Ish Sodhi,IS Sodhi
+Oman,Aqib Ilyas,Aqib Ilyas
+Oman,Zeeshan Maqsood,Zeeshan Maqsood
+Oman,Bilal Khan,Bilal Khan
+Oman,Kaleemullah,Kaleemullah
+Oman,Fayyaz Butt,Fayyaz Butt
+Oman,Mohammad Nadeem,Mohammad Nadeem
+Oman,Kashyap Prajapati,KH Prajapati
+Oman,Khalid Kail,Khalid Kail
+Oman,Ayaan Khan,Ayan Khan
+Oman,Naseem Khushi,Naseem Khushi
+Oman,Shakeel Ahmed,Shakeel Ahmed
+Oman,Shoaib Khan,Shoaib Khan
+Pakistan,Abbas Afridi,Abbas Afridi
+Pakistan,Abdul Samad,Abdul Samad
+Pakistan,Abrar Ahmed,Abrar Ahmed
+Pakistan,Agha Salman,Agha Salman
+Pakistan,Ahmed Daniyal,Ahmed Daniyal
+Pakistan,Arafat Minhas,Arafat Minhas
+Pakistan,Babar Azam,Babar Azam
+Pakistan,Faheem Ashraf,Faheem Ashraf
+Pakistan,Fakhar Zaman,Fakhar Zaman
+Pakistan,Haris Rauf,Haris Rauf
+Pakistan,Hasan Ali,Ali Hasan
+Pakistan,Hasan Nawaz,Hassan Nawaz
+Pakistan,Haseebullah Khan,Haseebullah Khan
+Pakistan,Hussain Talat,Hussain Talat
+Pakistan,Irfan Khan,Irfan Khan
+Pakistan,Jahandad Khan,Jahandad Khan
+Pakistan,Khushdil Shah,Khushdil Shah
+Pakistan,Mohammad Ali,Mohammad Ali
+Pakistan,Mohammad Haris,Mohammad Haris
+Pakistan,Mohammad Hasnain,Mohammad Hasnain
+Pakistan,Mohammad Nawaz,Mohammad Nawaz
+Pakistan,Mohammad Rizwan,Mohammad Rizwan
+Pakistan,Naseem Shah,Naseem Shah
+Pakistan,Omair Yousuf,Omair Yousuf
+Pakistan,Qasim Akram,Qasim Akram
+Pakistan,Sahibzada Farhan,Sahibzada Farhan
+Pakistan,Saim Ayub,Saim Ayub
+Pakistan,Salman Mirza,Salman Mirza
+Pakistan,Shadab Khan,Shadab Khan
+Pakistan,Shaheen Shah Afridi,Shaheen Shah Afridi
+Pakistan,Sufiyan Muqeem,Sufiyan Muqeem
+Pakistan,Tayyab Tahir,Tayyab Tahir
+Pakistan,Usman Khan,Usman Khan
+Pakistan,Usman Tariq,Umair Tariq
+Papua New Guinea,Tony Ura,TP Ura
+Papua New Guinea,Norman Vanua,N Vanua
+Papua New Guinea,Kabua Morea,KV Morea
+Papua New Guinea,Simon Atai,SK Atai
+Papua New Guinea,Samar Badula,S Bau
+Papua New Guinea,Assad Vala,A Vala
+Papua New Guinea,Kiplin Doriga,K Doriga
+Papua New Guinea,Sese Bau,S Bau
+Papua New Guinea,Alei Nao,A Nao
+Papua New Guinea,Hiri Hiri,H Hiri
+Papua New Guinea,John Kariko,J Kariko
+Scotland,Richie Berrington,RD Berrington
+Scotland,Chris Greaves,CN Greaves
+Scotland,Calum MacLeod,CS MacLeod
+Scotland,Matthew Cross,MH Cross
+Scotland,Mark Watt,MRJ Watt
+Scotland,Safyaan Sharif,SM Sharif
+Scotland,Michael Leask,MA Leask
+Scotland,George Munsey,HG Munsey
+Scotland,Brad Wheal,BTJ Wheal
+Scotland,Gavin Main,GT Main
+Scotland,Chris Sole,CB Sole
+Scotland,Hamza Tahir,Hamza Tahir
+Scotland,Jack Jarvis,J Jarvis
+South Africa,Dewald Brevis,D Brevis
+South Africa,Nandre Burger,N Burger
+South Africa,Gerald Coetzee,G Coetzee
+South Africa,Quinton de Kock,Q de Kock
+South Africa,Tony de Zorzi,T de Zorzi
+South Africa,Donovan Ferreira,D Ferreira
+South Africa,Bjorn Fortuin,BC Fortuin
+South Africa,Reeza Hendricks,RR Hendricks
+South Africa,Marco Jansen,M Jansen
+South Africa,Keshav Maharaj,KA Maharaj
+South Africa,Kwena Maphaka,KT Maphaka
+South Africa,Aiden Markram,AK Markram
+South Africa,David Miller,DA Miller
+South Africa,Senuran Muthusamy,S Muthusamy
+South Africa,Lungi Ngidi,L Ngidi
+South Africa,Kagiso Rabada,K Rabada
+South Africa,Rassie van der Dussen,HE van der Dussen
+South Africa,Lizaad Williams,LB Williams
+South Africa,Corbin Bosch,C Bosch
+South Africa,Matthew Breetzke,MP Breetzke
+South Africa,Dayyaan Galiem,Dayyaan Galiem
+South Africa,Rubin Hermann,RA Herman
+South Africa,Heinrich Klaasen,H Klaasen
+South Africa,George Linde,GF Linde
+South Africa,Nqabayomzi Peter,N Peter
+South Africa,Lhuan-dre Pretorius,LG Pretorius
+South Africa,Ryan Rickelton,RD Rickelton
+South Africa,Tristan Stubbs,T Stubbs
+Sri Lanka,Dinesh Chandimal,LD Chandimal
+Sri Lanka,Binura Fernando,B Fernando
+Sri Lanka,Chamika Karunaratne,C Karunaratne
+Sri Lanka,Janith Liyanage,J Liyanage
+Sri Lanka,Kamil Mishara,K Mishara
+Sri Lanka,Pathum Nissanka,P Nissanka
+Sri Lanka,Kusal Perera,AK Perera
+Sri Lanka,Dasun Shanaka,MD Shanaka
+Sri Lanka,Maheesh Theekshana,M Theekshana
+Sri Lanka,Nuwan Thushara,N Thushara
+Sri Lanka,Dunith Wellalage,DN Wellalage
+Sri Lanka,Chamindu Wickramasinghe,C Wickramasinghe
+Sri Lanka,Charith Asalanka,KIC Asalanka
+Sri Lanka,Dushmantha Chameera,PVD Chameera
+Sri Lanka,Nuwanidu Fernando,MNK Fernando
+Sri Lanka,Avishka Fernando,WIA Fernando
+Sri Lanka,Wanindu Hasaranga,PWH de Silva
+Sri Lanka,Dushan Hemantha,MADI Hemantha
+Sri Lanka,Kusal Mendis,BKG Mendis
+Sri Lanka,Kamindu Mendis,PHKD Mendis
+Sri Lanka,Matheesha Pathirana,M Pathirana
+Sri Lanka,Bhanuka Rajapaksa,PBB Rajapaksa
+Sri Lanka,Jeffrey Vandersay,JDF Vandersay
+Uganda,Brian Masaba,B Masaba
+Uganda,Simon Ssesazi,S Sesazi
+Uganda,Kenneth Waiswa,K Waiswa
+Uganda,Ronak Patel,RB Patel
+Uganda,Riazat Ali Shah,Riazat Ali Shah
+Uganda,Dinesh Nakrani,DM Nakrani
+Uganda,Alpesh Ramjani,AR Ramjani
+Uganda,Henry Ssenyondo,H Ssenyondo
+Uganda,Frank Nsubuga,F Nsubuga
+Uganda,Cosmas Kyewuta,C Kyewuta
+Uganda,Bilal Hassan,Bilal Hassun
+United States of America,Aaron Jones,Aaron Jones
+United States of America,Saurabh Netravalkar,SN Netravalkar
+United States of America,Corey Anderson,CJ Anderson
+United States of America,Ali Khan,Ali Khan
+United States of America,Nitish Kumar,Nithish Kumar Reddy
+United States of America,Harmeet Singh,Harmeet Singh
+United States of America,Gajanand Singh,Gagandeep Singh
+United States of America,Milind Kumar,Milind Kumar
+United States of America,Shayan Jahangir,Shayan Jahangir
+United States of America,Monank Patel,MD Patel
+United States of America,Steven Taylor,SR Taylor
+United States of America,Andries Gous,AGS Gous
+United States of America,Nosthush Kenjige,NP Kenjige
+United States of America,Jessy Singh,Jasdeep Singh
+West Indies,Jewel Andrew,J Andrew
+West Indies,Alick Athanaze,A Athanaze
+West Indies,Navin Bidaisee,N Bidaisee
+West Indies,Johnson Charles,J Charles
+West Indies,Andre Fletcher,ADS Fletcher
+West Indies,Jason Holder,JO Holder
+West Indies,Shai Hope,SD Hope
+West Indies,Akeal Hosein,AJ Hosein
+West Indies,Shamar Joseph,S Joseph
+West Indies,Kyle Mayers,KR Mayers
+West Indies,Obed McCoy,OC McCoy
+West Indies,Rovman Powell,R Powell
+West Indies,Andre Russell,AD Russell
+West Indies,Sherfane Rutherford,SE Rutherford
+West Indies,Romario Shepherd,R Shepherd
+West Indies,Fabian Allen,FA Allen
+West Indies,Ackeem Auguste,AWJ Auguste
+West Indies,Keacy Carty,KU Carty
+West Indies,Roston Chase,RL Chase
+West Indies,Matthew Forde,MW Forde
+West Indies,Karima Gore,K Gore
+West Indies,Shimron Hetmyer,SO Hetmyer
+West Indies,Terrance Hinds,T Hinds
+West Indies,Alzarri Joseph,AS Joseph
+West Indies,Brandon King,BA King
+West Indies,Gudakesh Motie,G Motie
+West Indies,Nicholas Pooran,N Pooran
+West Indies,Jayden Seals,JNT Seales
+West Indies,Ramon Simmonds,RR Simmonds
+Zimbabwe,Ryan Burl,RP Burl
+Zimbabwe,Brad Evans,B Evans
+Zimbabwe,Faraz Akram,M Faraz Akram
+Zimbabwe,Clive Madande,C Madande
+Zimbabwe,Wessley Madhevere,W Madhevere
+Zimbabwe,Tony Munyonga,T Munyonga
+Zimbabwe,Blessing Muzarabani,B Muzarabani
+Zimbabwe,Dion Myers,D Myers
+Zimbabwe,Richard Ngarava,R Ngarava
+Zimbabwe,Sikandar Raza,Sikandar Raza
+Zimbabwe,Sean Williams,S Williams
+Zimbabwe,Luke Jongwe,LM Jongwe
+Zimbabwe,Brian Bennett,BJ Bennett
+Zimbabwe,Tadiwanashe Marumani,T Marumani
+Zimbabwe,Wellington Masakadza,WP Masakadza
+Zimbabwe,Tashinga Musekiwa,T Musekiwa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

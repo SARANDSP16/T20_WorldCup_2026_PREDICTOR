@@ -1,0 +1,16 @@
+TEAM: Uganda
+==================================================
+Brian Masaba  |  B Masaba  |  80.0
+Simon Ssesazi  |  S Sesazi  |  76.19047619047619
+Riazat Ali Shah  |  Riazat Ali Shah  |  100.0
+Dinesh Nakrani  |  DM Nakrani  |  75.0
+Alpesh Ramjani  |  AR Ramjani  |  75.0
+Henry Ssenyondo  |  H Ssenyondo  |  84.61538461538461
+Frank Nsubuga  |  F Nsubuga  |  81.81818181818181
+Cosmas Kyewuta  |  C Kyewuta  |  78.26086956521739
+Bilal Hassan  |  Bilal Hassun  |  91.66666666666666
+
+UNMATCHED PLAYERS:
+------------------------------
+- Kenneth Waiswa
+- Ronak Patel

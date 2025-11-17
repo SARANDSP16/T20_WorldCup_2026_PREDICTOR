@@ -1,0 +1,28 @@
+TEAM: Sri Lanka
+==================================================
+Dinesh Chandimal  |  LD Chandimal  |  78.57142857142857
+Binura Fernando  |  B Fernando  |  80.0
+Chamika Karunaratne  |  C Karunaratne  |  81.25
+Janith Liyanage  |  J Liyanage  |  80.0
+Kamil Mishara  |  K Mishara  |  81.81818181818181
+Pathum Nissanka  |  P Nissanka  |  80.0
+Kusal Perera  |  AK Perera  |  76.19047619047619
+Dasun Shanaka  |  MD Shanaka  |  78.26086956521739
+Maheesh Theekshana  |  M Theekshana  |  80.0
+Nuwan Thushara  |  N Thushara  |  83.33333333333334
+Dunith Wellalage  |  DN Wellalage  |  78.57142857142857
+Chamindu Wickramasinghe  |  C Wickramasinghe  |  82.05128205128204
+
+UNMATCHED PLAYERS:
+------------------------------
+- Charith Asalanka
+- Dushmantha Chameera
+- Nuwanidu Fernando
+- Avishka Fernando
+- Wanindu Hasaranga
+- Dushan Hemantha
+- Kusal Mendis
+- Kamindu Mendis
+- Matheesha Pathirana
+- Bhanuka Rajapaksa
+- Jeffrey Vandersay

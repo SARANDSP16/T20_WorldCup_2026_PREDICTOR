@@ -1,0 +1,387 @@
+MASTER PLAYER MATCH REPORT
+======================================================================
+
+MATCHED PLAYERS
+------------------
+Australia | Sean Abbott | SA Abbott | 80.0
+Australia | Xavier Bartlett | XC Bartlett | 76.92307692307692
+Australia | Alex Carey | Alex Carthew | 81.81818181818181
+Australia | Tim David | TH David | 82.35294117647058
+Australia | Ben Dwarshuis | BJ Dwarshuis | 88.0
+Australia | Jake Fraser-McGurk | J Fraser-McGurk | 90.9090909090909
+Australia | Aaron Hardie | AM Hardie | 76.19047619047619
+Australia | Josh Hazlewood | JR Hazlewood | 84.61538461538461
+Australia | Josh Inglis | JP Inglis | 80.0
+Australia | Glenn Maxwell | GJ Maxwell | 78.26086956521739
+Australia | Mitchell Owen | RP Mitchell | 75.0
+Australia | Josh Philippe | JR Philippe | 83.33333333333334
+Australia | Marcus Stoinis | MP Stoinis | 75.0
+Australia | Adam Zampa | A Zampa | 82.35294117647058
+Bangladesh | Afif Hossain | Afif Hossain | 100.0
+Bangladesh | Hasan Mahmud | Hasan Mahmud | 100.0
+Bangladesh | Jaker Ali | Jaker Ali | 100.0
+Bangladesh | Liton Das | Liton Das | 100.0
+Bangladesh | Mahedi Hasan | Mahedi Hasan | 100.0
+Bangladesh | Mehidy Hasan | Hassan Mehmood | 76.92307692307692
+Bangladesh | Mohammad Naim | Mohammad Naim | 100.0
+Bangladesh | Mohammad Saifuddin | Mohammad Saifuddin | 100.0
+Bangladesh | Mustafizur Rahman | Mustafizur Rahman | 100.0
+Bangladesh | Nahid Rana | N Rana | 75.0
+Bangladesh | Najmul Hossain Shanto | Nazmul Hossain Shanto | 95.23809523809523
+Bangladesh | Nasum Ahmed | Nasum Ahmed | 100.0
+Bangladesh | Nurul Hasan | Nurul Hasan | 100.0
+Bangladesh | Parvez Hossain Emon | Parvez Hossain Emon | 100.0
+Bangladesh | Rishad Hossain | Rishad Hossain | 100.0
+Bangladesh | Saif Hassan | Saif Hassan | 100.0
+Bangladesh | Shamim Hossain | Shamim Hossain | 100.0
+Bangladesh | Shoriful Islam | Shoriful Islam | 100.0
+Bangladesh | Soumya Sarkar | Soumya Sarkar | 100.0
+Bangladesh | Tanvir Islam | Tanvir Islam | 100.0
+Bangladesh | Tanzid Hasan | Tanzid Hasan | 100.0
+Bangladesh | Tanzim Hasan Sakib | Tanzim Hasan Sakib | 100.0
+Bangladesh | Taskin Ahmed | Taskin Ahmed | 100.0
+Bangladesh | Towhid Hridoy | Towhid Hridoy | 100.0
+Canada | Rayyan Pathan | R Pathan | 76.19047619047619
+Canada | Saad Bin Zafar | Saad Bin Zafar | 100.0
+Canada | Aaron Johnson | Aaron Jones | 83.33333333333334
+Canada | Pargat Singh | Pargat Singh | 100.0
+Canada | Harsh Thaker | H Thaker | 80.0
+Canada | Kaleem Sana | Kaleem Sana | 100.0
+Canada | Ravinderpal Singh | Ravinderpal Singh | 100.0
+Canada | Dillon Heyliger | D Heyliger | 80.0
+Canada | Rizwan Cheema | Rizwan Cheema | 100.0
+England | Jofra Archer | JC Archer | 76.19047619047619
+England | Gus Atkinson | JJ Atkinson | 78.26086956521739
+England | Tom Banton | T Banton | 88.88888888888889
+England | Jacob Bethell | JG Bethell | 78.26086956521739
+England | Jos Buttler | JC Buttler | 85.71428571428572
+England | Jordan Cox | CJ Jordan | 84.21052631578947
+England | Sam Curran | SM Curran | 84.21052631578947
+England | Liam Dawson | LA Dawson | 80.0
+England | Ben Duckett | BM Duckett | 85.71428571428572
+England | Will Jacks | WG Jacks | 77.77777777777779
+England | Liam Livingstone | LS Livingstone | 86.66666666666667
+England | Saqib Mahmood | S Mahmood | 81.81818181818181
+England | Dan Mousley | DR Mousley | 85.71428571428572
+England | Jamie Overton | J Overton | 81.81818181818181
+England | Adil Rashid | AU Rashid | 80.0
+England | Rehan Ahmed | Rehan Ahmed | 100.0
+England | Phil Salt | PD Salt | 75.0
+England | John Turner | AJ Turner | 80.0
+England | Luke Wood | Luka Woods | 84.21052631578947
+England | Mark Wood | MA Wood | 75.0
+India | Harshit Rana | Harshit Rana | 100.0
+India | Ramandeep Singh | Ramandeep Singh | 100.0
+India | Nitish Kumar Reddy | Nithish Kumar Reddy | 97.2972972972973
+India | Riyan Parag | R Parag | 77.77777777777779
+India | Dhruv Jurel | Dhruv Jurel | 100.0
+India | Abhishek Sharma | Abhishek Sharma | 100.0
+India | Jitesh Sharma | Manish Sharma | 76.92307692307692
+India | Tilak Varma | Tilak Varma | 100.0
+India | Mukesh Kumar | Mukesh Kumar | 100.0
+India | Shubman Gill | Shubman Gill | 100.0
+India | Arshdeep Singh | Arshdeep Singh | 100.0
+India | Avesh Khan | Avesh Khan | 100.0
+India | Ravi Bishnoi | Ravi Bishnoi | 100.0
+India | Venkatesh Iyer | A Venkatesh | 80.0
+India | Ishan Kishan | Ishan Kishan | 100.0
+India | Washington Sundar | Washington Sundar | 100.0
+India | Mohammed Siraj | Mohammed Siraj | 100.0
+India | Kuldeep Yadav | Kuldeep Yadav | 100.0
+India | KL Rahul | KL Rahul | 100.0
+India | Axar Patel | Aarnav Patel | 81.81818181818181
+Ireland | Ross Adair | GR Adair | 77.77777777777779
+Ireland | Mark Adair | MR Adair | 77.77777777777779
+Ireland | GH Dockrell | GH Dockrell | 100.0
+Ireland | Fionn Hand | F Hand | 75.0
+Ireland | Matthew Humphreys | MJ Humphreys | 75.86206896551724
+Ireland | Josh Little | J Little | 84.21052631578947
+Ireland | Barry McCarthy | BJ McCarthy | 80.0
+Ireland | Liam McCarthy | L McCarthy | 86.95652173913044
+Ireland | Neil Rock | NA Rock | 75.0
+Ireland | Paul Stirling | PR Stirling | 83.33333333333334
+Ireland | Harry Tector | HT Tector | 76.19047619047619
+Ireland | Lorcan Tucker | L Tucker | 76.19047619047619
+Ireland | Ben White | B White | 87.5
+Namibia | JJ Smit | JJ Smit | 100.0
+Namibia | Jan Frylinck | JN Frylinck | 86.95652173913044
+Namibia | David Wiese | D Wiese | 77.77777777777779
+Namibia | Ruben Trumpelmann | R Trumpelmann | 86.66666666666667
+Namibia | Michael van Lingen | M van Lingen | 80.0
+Namibia | Tangeni Lungameni | T Lungameni | 78.57142857142857
+Namibia | Zane Green | ZE Green | 77.77777777777779
+Namibia | JP Kotze | JP Kotze | 100.0
+Namibia | Ben Shikongo | B Shikongo | 90.9090909090909
+Nepal | Rohit Paudel | RK Paudel | 76.19047619047619
+Nepal | Kushal Bhurtel | K Bhurtel | 78.26086956521739
+Nepal | Aasif Sheikh | Aasif Sheikh | 100.0
+Nepal | Sompal Kami | Sompal Kami | 100.0
+Nepal | Sandeep Lamichhane | S Lamichhane | 80.0
+Nepal | Karan KC | Karan KC | 100.0
+Nepal | Kushal Malla | Kushal Malla | 100.0
+Nepal | Gulshan Jha | Gulsan Jha | 95.23809523809523
+Nepal | Lalit Rajbanshi | LN Rajbanshi | 81.4814814814815
+Nepal | Pratis GC | Pratis GC | 100.0
+Netherlands | Scott Edwards | SA Edwards | 78.26086956521739
+Netherlands | Bas de Leede | BFW de Leede | 83.33333333333334
+Netherlands | Logan van Beek | LV van Beek | 80.0
+Netherlands | Vikramjit Singh | Vikramjit Singh | 100.0
+Netherlands | Max O'Dowd | MP O'Dowd | 84.21052631578947
+Netherlands | Paul van Meekeren | PA van Meekeren | 87.5
+Netherlands | Fred Klaassen | FJ Klaassen | 83.33333333333334
+Netherlands | Roelof van der Merwe | RE van der Merwe | 83.33333333333334
+Netherlands | Shariz Ahmad | Shariz Ahmad | 100.0
+Netherlands | Aryan Dutt | A Dutt | 75.0
+New Zealand | Finn Allen | FA Allen | 77.77777777777779
+New Zealand | Michael Bracewell | MG Bracewell | 75.86206896551724
+New Zealand | Mark Chapman | MS Chapman | 81.81818181818181
+New Zealand | Devon Conway | DP Conway | 76.19047619047619
+New Zealand | Mitchell Hay | DJ Mitchell | 78.26086956521739
+New Zealand | Matt Henry | MJ Henry | 77.77777777777779
+New Zealand | Bevon Jacobs | BJ Jacobs | 76.19047619047619
+New Zealand | Kyle Jamieson | KA Jamieson | 83.33333333333334
+New Zealand | AF Milne | AF Milne | 100.0
+New Zealand | Daryl Mitchell | DJ Mitchell | 80.0
+New Zealand | James Neesham | JDS Neesham | 75.0
+New Zealand | Glenn Phillips | GD Phillips | 80.0
+New Zealand | Rachin Ravindra | R Ravindra | 80.0
+New Zealand | Tim Robinson | TB Robinson | 86.95652173913044
+New Zealand | Ben Sears | BV Sears | 82.35294117647058
+New Zealand | Tim Seifert | TL Seifert | 85.71428571428572
+New Zealand | Ish Sodhi | IS Sodhi | 82.35294117647058
+Oman | Aqib Ilyas | Aqib Ilyas | 100.0
+Oman | Zeeshan Maqsood | Zeeshan Maqsood | 100.0
+Oman | Bilal Khan | Bilal Khan | 100.0
+Oman | Kaleemullah | Kaleemullah | 100.0
+Oman | Fayyaz Butt | Fayyaz Butt | 100.0
+Oman | Mohammad Nadeem | Mohammad Nadeem | 100.0
+Oman | Kashyap Prajapati | KH Prajapati | 75.86206896551724
+Oman | Khalid Kail | Khalid Kail | 100.0
+Oman | Ayaan Khan | Ayan Khan | 94.73684210526316
+Oman | Naseem Khushi | Naseem Khushi | 100.0
+Oman | Shakeel Ahmed | Shakeel Ahmed | 100.0
+Oman | Shoaib Khan | Shoaib Khan | 100.0
+Pakistan | Abbas Afridi | Abbas Afridi | 100.0
+Pakistan | Abdul Samad | Abdul Samad | 100.0
+Pakistan | Abrar Ahmed | Abrar Ahmed | 100.0
+Pakistan | Agha Salman | Agha Salman | 100.0
+Pakistan | Ahmed Daniyal | Ahmed Daniyal | 100.0
+Pakistan | Arafat Minhas | Arafat Minhas | 100.0
+Pakistan | Babar Azam | Babar Azam | 100.0
+Pakistan | Faheem Ashraf | Faheem Ashraf | 100.0
+Pakistan | Fakhar Zaman | Fakhar Zaman | 100.0
+Pakistan | Haris Rauf | Haris Rauf | 100.0
+Pakistan | Hasan Ali | Ali Hasan | 100.0
+Pakistan | Hasan Nawaz | Hassan Nawaz | 95.65217391304348
+Pakistan | Haseebullah Khan | Haseebullah Khan | 100.0
+Pakistan | Hussain Talat | Hussain Talat | 100.0
+Pakistan | Irfan Khan | Irfan Khan | 100.0
+Pakistan | Jahandad Khan | Jahandad Khan | 100.0
+Pakistan | Khushdil Shah | Khushdil Shah | 100.0
+Pakistan | Mohammad Ali | Mohammad Ali | 100.0
+Pakistan | Mohammad Haris | Mohammad Haris | 100.0
+Pakistan | Mohammad Hasnain | Mohammad Hasnain | 100.0
+Pakistan | Mohammad Nawaz | Mohammad Nawaz | 100.0
+Pakistan | Mohammad Rizwan | Mohammad Rizwan | 100.0
+Pakistan | Naseem Shah | Naseem Shah | 100.0
+Pakistan | Omair Yousuf | Omair Yousuf | 100.0
+Pakistan | Qasim Akram | Qasim Akram | 100.0
+Pakistan | Sahibzada Farhan | Sahibzada Farhan | 100.0
+Pakistan | Saim Ayub | Saim Ayub | 100.0
+Pakistan | Salman Mirza | Salman Mirza | 100.0
+Pakistan | Shadab Khan | Shadab Khan | 100.0
+Pakistan | Shaheen Shah Afridi | Shaheen Shah Afridi | 100.0
+Pakistan | Sufiyan Muqeem | Sufiyan Muqeem | 100.0
+Pakistan | Tayyab Tahir | Tayyab Tahir | 100.0
+Pakistan | Usman Khan | Usman Khan | 100.0
+Pakistan | Usman Tariq | Umair Tariq | 81.81818181818181
+Papua New Guinea | Assad Vala | A Vala | 75.0
+Papua New Guinea | Kiplin Doriga | K Doriga | 76.19047619047619
+Papua New Guinea | Sese Bau | S Bau | 76.92307692307692
+Papua New Guinea | Alei Nao | A Nao | 76.92307692307692
+Papua New Guinea | Hiri Hiri | H Hiri | 80.0
+Papua New Guinea | John Kariko | J Kariko | 84.21052631578947
+Scotland | Richie Berrington | RD Berrington | 80.0
+Scotland | Chris Greaves | CN Greaves | 78.26086956521739
+Scotland | Calum MacLeod | CS MacLeod | 78.26086956521739
+Scotland | Hamza Tahir | Hamza Tahir | 100.0
+Scotland | Jack Jarvis | J Jarvis | 84.21052631578947
+South Africa | Dewald Brevis | D Brevis | 76.19047619047619
+South Africa | Nandre Burger | N Burger | 76.19047619047619
+South Africa | Gerald Coetzee | G Coetzee | 78.26086956521739
+South Africa | Quinton de Kock | Q de Kock | 75.0
+South Africa | Tony de Zorzi | T de Zorzi | 86.95652173913044
+South Africa | Donovan Ferreira | D Ferreira | 76.92307692307692
+South Africa | Bjorn Fortuin | BC Fortuin | 78.26086956521739
+South Africa | Reeza Hendricks | RR Hendricks | 81.4814814814815
+South Africa | Marco Jansen | M Jansen | 80.0
+South Africa | Keshav Maharaj | KA Maharaj | 75.0
+South Africa | Kwena Maphaka | KT Maphaka | 78.26086956521739
+South Africa | Aiden Markram | AK Markram | 78.26086956521739
+South Africa | David Miller | DA Miller | 76.19047619047619
+South Africa | Senuran Muthusamy | S Muthusamy | 78.57142857142857
+South Africa | Lungi Ngidi | L Ngidi | 77.77777777777779
+South Africa | Kagiso Rabada | K Rabada | 76.19047619047619
+South Africa | Rassie van der Dussen | HE van der Dussen | 78.94736842105263
+South Africa | Lizaad Williams | LB Williams | 76.92307692307692
+Sri Lanka | Dinesh Chandimal | LD Chandimal | 78.57142857142857
+Sri Lanka | Binura Fernando | B Fernando | 80.0
+Sri Lanka | Chamika Karunaratne | C Karunaratne | 81.25
+Sri Lanka | Janith Liyanage | J Liyanage | 80.0
+Sri Lanka | Kamil Mishara | K Mishara | 81.81818181818181
+Sri Lanka | Pathum Nissanka | P Nissanka | 80.0
+Sri Lanka | Kusal Perera | AK Perera | 76.19047619047619
+Sri Lanka | Dasun Shanaka | MD Shanaka | 78.26086956521739
+Sri Lanka | Maheesh Theekshana | M Theekshana | 80.0
+Sri Lanka | Nuwan Thushara | N Thushara | 83.33333333333334
+Sri Lanka | Dunith Wellalage | DN Wellalage | 78.57142857142857
+Sri Lanka | Chamindu Wickramasinghe | C Wickramasinghe | 82.05128205128204
+Uganda | Brian Masaba | B Masaba | 80.0
+Uganda | Simon Ssesazi | S Sesazi | 76.19047619047619
+Uganda | Riazat Ali Shah | Riazat Ali Shah | 100.0
+Uganda | Dinesh Nakrani | DM Nakrani | 75.0
+Uganda | Alpesh Ramjani | AR Ramjani | 75.0
+Uganda | Henry Ssenyondo | H Ssenyondo | 84.61538461538461
+Uganda | Frank Nsubuga | F Nsubuga | 81.81818181818181
+Uganda | Cosmas Kyewuta | C Kyewuta | 78.26086956521739
+Uganda | Bilal Hassan | Bilal Hassun | 91.66666666666666
+United States of America | Aaron Jones | Aaron Jones | 100.0
+United States of America | Saurabh Netravalkar | SN Netravalkar | 78.78787878787878
+United States of America | Corey Anderson | CJ Anderson | 80.0
+United States of America | Ali Khan | Ali Khan | 100.0
+United States of America | Nitish Kumar | Nithish Kumar Reddy | 77.41935483870968
+United States of America | Harmeet Singh | Harmeet Singh | 100.0
+United States of America | Gajanand Singh | Gagandeep Singh | 75.86206896551724
+United States of America | Milind Kumar | Milind Kumar | 100.0
+United States of America | Shayan Jahangir | Shayan Jahangir | 100.0
+West Indies | Jewel Andrew | J Andrew | 80.0
+West Indies | Alick Athanaze | A Athanaze | 83.33333333333334
+West Indies | Navin Bidaisee | N Bidaisee | 83.33333333333334
+West Indies | Johnson Charles | J Charles | 75.0
+West Indies | Andre Fletcher | ADS Fletcher | 76.92307692307692
+West Indies | Jason Holder | JO Holder | 76.19047619047619
+West Indies | Shai Hope | SD Hope | 75.0
+West Indies | Akeal Hosein | AJ Hosein | 76.19047619047619
+West Indies | Shamar Joseph | S Joseph | 76.19047619047619
+West Indies | Kyle Mayers | KR Mayers | 80.0
+West Indies | Obed McCoy | OC McCoy | 77.77777777777779
+West Indies | Rovman Powell | R Powell | 76.19047619047619
+West Indies | Andre Russell | AD Russell | 78.26086956521739
+West Indies | Sherfane Rutherford | SE Rutherford | 75.0
+West Indies | Romario Shepherd | R Shepherd | 76.92307692307692
+Zimbabwe | Ryan Burl | RP Burl | 75.0
+Zimbabwe | Brad Evans | B Evans | 82.35294117647058
+Zimbabwe | Faraz Akram | M Faraz Akram | 91.66666666666666
+Zimbabwe | Clive Madande | C Madande | 81.81818181818181
+Zimbabwe | Wessley Madhevere | W Madhevere | 78.57142857142857
+Zimbabwe | Tony Munyonga | T Munyonga | 86.95652173913044
+Zimbabwe | Blessing Muzarabani | B Muzarabani | 77.41935483870968
+Zimbabwe | Dion Myers | D Myers | 82.35294117647058
+Zimbabwe | Richard Ngarava | R Ngarava | 75.0
+Zimbabwe | Sikandar Raza | Sikandar Raza | 100.0
+Zimbabwe | Sean Williams | S Williams | 86.95652173913044
+Zimbabwe | Luke Jongwe | LM Jongwe | 80.0
+
+UNMATCHED PLAYERS
+------------------
+Australia | Cooper Connolly | NOT MATCHED
+Australia | Nathan Ellis | NOT MATCHED
+Australia | Cameron Green | NOT MATCHED
+Australia | Travis Head | NOT MATCHED
+Australia | Spencer Johnson | NOT MATCHED
+Australia | Matthew Kuhnemann | NOT MATCHED
+Australia | Mitchell Marsh | NOT MATCHED
+Australia | Matthew Short | NOT MATCHED
+Bangladesh | Syed Khaled Ahmed | NOT MATCHED
+Canada | Navneet Dhaliwal | NOT MATCHED
+Canada | Nicholas Kirton | NOT MATCHED
+Canada | Dilpreet Bajwa | NOT MATCHED
+Canada | Nikhil Dutta | NOT MATCHED
+Canada | Shreyas Movva | NOT MATCHED
+England | Sonny Baker | NOT MATCHED
+England | Harry Brook | NOT MATCHED
+England | Brydon Carse | NOT MATCHED
+England | Matthew Potts | NOT MATCHED
+England | Jamie Smith | NOT MATCHED
+India | Sai Kishore | NOT MATCHED
+India | Rinku Singh | NOT MATCHED
+India | Prasidh Krishna | NOT MATCHED
+India | Yashasvi Jaiswal | NOT MATCHED
+India | Ruturaj Gaikwad | NOT MATCHED
+India | Varun Chakravarthy | NOT MATCHED
+India | Suryakumar Yadav | NOT MATCHED
+India | Shivam Dube | NOT MATCHED
+India | Shreyas Iyer | NOT MATCHED
+India | Rishabh Pant | NOT MATCHED
+India | Yuzvendra Chahal | NOT MATCHED
+India | Hardik Pandya | NOT MATCHED
+India | Jasprit Bumrah | NOT MATCHED
+India | Sanju Samson | NOT MATCHED
+Ireland | Benjamin Calitz | NOT MATCHED
+Ireland | Curtis Campher | NOT MATCHED
+Ireland | Gareth Delany | NOT MATCHED
+Ireland | Graham Hume | NOT MATCHED
+Ireland | Tim Tector | NOT MATCHED
+Ireland | Craig Young | NOT MATCHED
+Namibia | Gerhard Erasmus | NOT MATCHED
+Namibia | Bernard Scholtz | NOT MATCHED
+Nepal | Dipendra Singh Airee | NOT MATCHED
+Nepal | Sundeep Jora | NOT MATCHED
+Netherlands | Teja Nidamanuru | NOT MATCHED
+Netherlands | Michael Levitt | NOT MATCHED
+New Zealand | Jacob Duffy | NOT MATCHED
+New Zealand | Zakary Foulkes | NOT MATCHED
+New Zealand | William O'Rourke | NOT MATCHED
+New Zealand | Mitchell Santner | NOT MATCHED
+Papua New Guinea | Charles Amini | NOT MATCHED
+Papua New Guinea | Tony Ura | NOT MATCHED
+Papua New Guinea | Norman Vanua | NOT MATCHED
+Papua New Guinea | Kabua Morea | NOT MATCHED
+Papua New Guinea | Simon Atai | NOT MATCHED
+Papua New Guinea | Samar Badula | NOT MATCHED
+Scotland | Matthew Cross | NOT MATCHED
+Scotland | Mark Watt | NOT MATCHED
+Scotland | Safyaan Sharif | NOT MATCHED
+Scotland | Michael Leask | NOT MATCHED
+Scotland | George Munsey | NOT MATCHED
+Scotland | Brad Wheal | NOT MATCHED
+Scotland | Gavin Main | NOT MATCHED
+Scotland | Chris Sole | NOT MATCHED
+South Africa | Ottneil Baartman | NOT MATCHED
+South Africa | Corbin Bosch | NOT MATCHED
+South Africa | Matthew Breetzke | NOT MATCHED
+South Africa | Dayyaan Galiem | NOT MATCHED
+South Africa | Rubin Hermann | NOT MATCHED
+South Africa | Heinrich Klaasen | NOT MATCHED
+South Africa | George Linde | NOT MATCHED
+South Africa | Ryan Rickelton | NOT MATCHED
+South Africa | Tristan Stubbs | NOT MATCHED
+Sri Lanka | Charith Asalanka | NOT MATCHED
+Sri Lanka | Dushmantha Chameera | NOT MATCHED
+Sri Lanka | Nuwanidu Fernando | NOT MATCHED
+Sri Lanka | Avishka Fernando | NOT MATCHED
+Sri Lanka | Wanindu Hasaranga | NOT MATCHED
+Sri Lanka | Dushan Hemantha | NOT MATCHED
+Sri Lanka | Kusal Mendis | NOT MATCHED
+Sri Lanka | Kamindu Mendis | NOT MATCHED
+Sri Lanka | Matheesha Pathirana | NOT MATCHED
+Sri Lanka | Bhanuka Rajapaksa | NOT MATCHED
+Sri Lanka | Jeffrey Vandersay | NOT MATCHED
+Uganda | Kenneth Waiswa | NOT MATCHED
+Uganda | Ronak Patel | NOT MATCHED
+United States of America | Monank Patel | NOT MATCHED
+United States of America | Steven Taylor | NOT MATCHED
+United States of America | Andries Gous | NOT MATCHED
+United States of America | Nosthush Kenjige | NOT MATCHED
+United States of America | Jessy Singh | NOT MATCHED
+West Indies | Fabian Allen | NOT MATCHED
+West Indies | Ackeem Auguste | NOT MATCHED
+West Indies | Roston Chase | NOT MATCHED
+West Indies | Matthew Forde | NOT MATCHED
+West Indies | Alzarri Joseph | NOT MATCHED
+West Indies | Brandon King | NOT MATCHED
+West Indies | Gudakesh Motie | NOT MATCHED
+West Indies | Nicholas Pooran | NOT MATCHED
+Zimbabwe | Brian Bennett | NOT MATCHED
+Zimbabwe | Tadiwanashe Marumani | NOT MATCHED
+Zimbabwe | Wellington Masakadza | NOT MATCHED

@@ -1,0 +1,17 @@
+TEAM: Netherlands
+==================================================
+Scott Edwards  |  SA Edwards  |  78.26086956521739
+Bas de Leede  |  BFW de Leede  |  83.33333333333334
+Logan van Beek  |  LV van Beek  |  80.0
+Vikramjit Singh  |  Vikramjit Singh  |  100.0
+Max O'Dowd  |  MP O'Dowd  |  84.21052631578947
+Paul van Meekeren  |  PA van Meekeren  |  87.5
+Fred Klaassen  |  FJ Klaassen  |  83.33333333333334
+Roelof van der Merwe  |  RE van der Merwe  |  83.33333333333334
+Shariz Ahmad  |  Shariz Ahmad  |  100.0
+Aryan Dutt  |  A Dutt  |  75.0
+
+UNMATCHED PLAYERS:
+------------------------------
+- Teja Nidamanuru
+- Michael Levitt

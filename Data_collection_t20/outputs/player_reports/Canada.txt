@@ -1,0 +1,19 @@
+TEAM: Canada
+==================================================
+Rayyan Pathan  |  R Pathan  |  76.19047619047619
+Saad Bin Zafar  |  Saad Bin Zafar  |  100.0
+Aaron Johnson  |  Aaron Jones  |  83.33333333333334
+Pargat Singh  |  Pargat Singh  |  100.0
+Harsh Thaker  |  H Thaker  |  80.0
+Kaleem Sana  |  Kaleem Sana  |  100.0
+Ravinderpal Singh  |  Ravinderpal Singh  |  100.0
+Dillon Heyliger  |  D Heyliger  |  80.0
+Rizwan Cheema  |  Rizwan Cheema  |  100.0
+
+UNMATCHED PLAYERS:
+------------------------------
+- Navneet Dhaliwal
+- Nicholas Kirton
+- Dilpreet Bajwa
+- Nikhil Dutta
+- Shreyas Movva

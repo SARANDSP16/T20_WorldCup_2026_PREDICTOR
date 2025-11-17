@@ -1,0 +1,26 @@
+TEAM: New Zealand
+==================================================
+Finn Allen  |  FA Allen  |  77.77777777777779
+Michael Bracewell  |  MG Bracewell  |  75.86206896551724
+Mark Chapman  |  MS Chapman  |  81.81818181818181
+Devon Conway  |  DP Conway  |  76.19047619047619
+Mitchell Hay  |  DJ Mitchell  |  78.26086956521739
+Matt Henry  |  MJ Henry  |  77.77777777777779
+Bevon Jacobs  |  BJ Jacobs  |  76.19047619047619
+Kyle Jamieson  |  KA Jamieson  |  83.33333333333334
+AF Milne  |  AF Milne  |  100.0
+Daryl Mitchell  |  DJ Mitchell  |  80.0
+James Neesham  |  JDS Neesham  |  75.0
+Glenn Phillips  |  GD Phillips  |  80.0
+Rachin Ravindra  |  R Ravindra  |  80.0
+Tim Robinson  |  TB Robinson  |  86.95652173913044
+Ben Sears  |  BV Sears  |  82.35294117647058
+Tim Seifert  |  TL Seifert  |  85.71428571428572
+Ish Sodhi  |  IS Sodhi  |  82.35294117647058
+
+UNMATCHED PLAYERS:
+------------------------------
+- Jacob Duffy
+- Zakary Foulkes
+- William O'Rourke
+- Mitchell Santner
